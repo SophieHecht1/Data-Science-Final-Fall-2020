@@ -1,0 +1,17 @@
+Gender,Age,Percent kcal from carbohydrates,Percent kcal from protein,Percent kcal from total fat,Percent kcal from saturated fat,Year
+Male,20–44 years,46.5,16.5,34.0,11.1,2013-2016
+Male,45–64 years,46.0,16.1,34.8,11.3,2013-2016
+Male,65–74 years,45.9,16.5,35.5,11.4,2013-2016
+Male,75 years and over,47.9,15.5,36.0,12.2,2013-2016
+Female,20–44 years,48.2,15.8,34.8,11.2,2013-2016
+Female,45–64 years,47.6,16.0,35.3,11.3,2013-2016
+Female,65–74 years,47.9,16.4,35.7,11.4,2013-2016
+Female,75 years and over,50.4,15.0,35.0,11.8,2013-2016
+Male,20–44 years,47.5,16.1,33.0,10.6,2011-2014
+Male,45–64 years,47.2,16.0,34.1,10.9,2011-2014
+Male,65–74 years,46.6,16.6,34.5,11.0,2011-2014
+Male,75 years and over,49.0,16.1,34.1,11.1,2011-2014
+Female,20–44 years,50.0,15.3,33.5,10.8,2011-2014
+Female,45–64 years,48.6,15.7,33.9,10.7,2011-2014
+Female,65–74 years,49.6,16.1,34.2,10.6,2011-2014
+Female,75 years and over,51.6,15.3,33.4,11.0,2011-2014
